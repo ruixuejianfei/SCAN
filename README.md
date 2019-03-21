@@ -5,7 +5,7 @@ This solution contains source code of the project "SCAN: Self-and-Collaborative 
 The source code is for educational and research use only without any warranty; if you use any part of the source code, please cite related paper:
 
 
-``` python
+``` 
 
 @article{zhang2018scan,
   title={SCAN: Self-and-Collaborative Attention Network for Video Person Re-identification},
