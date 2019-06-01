@@ -9,8 +9,8 @@ The source code is for educational and research use only without any warranty; i
 @article{zhang2018scan,
   title={SCAN: Self-and-Collaborative Attention Network for Video Person Re-identification},
   author={Zhang, Ruimao and Sun, Hongbin and Li, Jingyu and Ge, Yuying and Lin, Liang and Luo, Ping and Wang, Xiaogang},
-  journal={arXiv preprint arXiv:1807.05688},
-  year={2018}
+  journal={IEEE Trans. on Image Processing},
+  year={2019}
 }
 ```
 
